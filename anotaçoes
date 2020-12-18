@@ -1,0 +1,27 @@
+Produto precisa ter:
+- int Codigo 
+- string Nome
+- float Preco
+
+ICarrinho é uma interface;
+
+Interfaces começa sempre com "I" para identificação;
+
+Uma analogia para interface é como se ela fosse um contrato, a classe não pode fazer nada a mais ou a menos do que está prevista para ela;
+
+ICarrinho precisa ter:
+* void Listar()
+* void Cadastrar(Produto produto) (var, nome do objeto)
+* void Alterar(int _codigo, Produto produto) (var, nome do objeto)
+* void Deletar(Produto produto) (var, nome do objeto)
+
+Program precisa:
+*listar
+*alterar
+*cadastrar
+*deletar
+
+
+Get e Set:
+get =
+set =
