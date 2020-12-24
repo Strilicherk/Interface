@@ -1,10 +1,10 @@
-namespace PO_Interface.Classes
+namespace Interface.Classes
 {
-    public interface ICarrinho
+        public interface ICarrinho 
     {
-         void Listar();
-         void Cadastrar(Produto produto);
-         void Alterar(int _codigo, Produto produto);
-         void Deletar(Produto produto);
-    }
+        void Cadastrar(Produto produto);
+        void Listar();
+        void Alterar(int cod, Produto produto);
+        void Deletar(Produto produto);
+        }
 }

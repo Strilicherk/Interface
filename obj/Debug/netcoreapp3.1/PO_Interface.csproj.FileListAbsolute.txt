@@ -1,0 +1,13 @@
+C:\Users\mathe\Downloads\POO_Interface\bin\Debug\netcoreapp3.1\PO_Interface.exe
+C:\Users\mathe\Downloads\POO_Interface\bin\Debug\netcoreapp3.1\PO_Interface.deps.json
+C:\Users\mathe\Downloads\POO_Interface\bin\Debug\netcoreapp3.1\PO_Interface.runtimeconfig.json
+C:\Users\mathe\Downloads\POO_Interface\bin\Debug\netcoreapp3.1\PO_Interface.runtimeconfig.dev.json
+C:\Users\mathe\Downloads\POO_Interface\bin\Debug\netcoreapp3.1\PO_Interface.dll
+C:\Users\mathe\Downloads\POO_Interface\bin\Debug\netcoreapp3.1\PO_Interface.pdb
+C:\Users\mathe\Downloads\POO_Interface\obj\Debug\netcoreapp3.1\PO_Interface.csprojAssemblyReference.cache
+C:\Users\mathe\Downloads\POO_Interface\obj\Debug\netcoreapp3.1\PO_Interface.AssemblyInfoInputs.cache
+C:\Users\mathe\Downloads\POO_Interface\obj\Debug\netcoreapp3.1\PO_Interface.AssemblyInfo.cs
+C:\Users\mathe\Downloads\POO_Interface\obj\Debug\netcoreapp3.1\PO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\POO_Interface\obj\Debug\netcoreapp3.1\PO_Interface.dll
+C:\Users\mathe\Downloads\POO_Interface\obj\Debug\netcoreapp3.1\PO_Interface.pdb
+C:\Users\mathe\Downloads\POO_Interface\obj\Debug\netcoreapp3.1\PO_Interface.genruntimeconfig.cache
